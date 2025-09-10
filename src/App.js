@@ -17,9 +17,9 @@ function App() {
       <footer className="footer">
         <div className="container">
           <div className="footer-content">
-            <p>&copy; 2025 Jayesh Duryodhan Vhatkar. Made with ❤️ using React.js</p>
+            <p>&copy; 2025 Jayesh Duryodhan Vhatkar. developed by @Misalyuvi</p>
             <div className="social-links">
-              <a href="https://instagram.com/your_username" target="_blank" rel="noopener noreferrer">📷 Instagram</a>
+              <a href="https://instagram.com/jayesh_vhatkar_90" target="_blank" rel="noopener noreferrer">📷 Instagram</a>
             </div>
           </div>
         </div>
